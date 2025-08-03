@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "HubiChat",
+    "slug": "hubichat-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.hubichat.mobile"
+    },
+    "android": {
+      "package": "com.hubichat.mobile"
+    },
+    "plugins": [
+      [
+        "expo-build-properties",
+        {
+          "ios": {
+            "useFrameworks": "static"
+          }
+        }
+      ]
+    ]
+  }
+}

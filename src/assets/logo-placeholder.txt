@@ -1,0 +1,5 @@
+This directory should contain:
+- logo.png (120x120 px HubiChat logo)
+- Any other app assets
+
+For now, update LoadingScreen.tsx to use a Text component instead of Image until the actual logo is added.
