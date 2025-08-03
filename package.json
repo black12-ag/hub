@@ -2,6 +2,15 @@
   "name": "hubichat-mobile",
   "version": "1.0.0",
   "private": true,
+  "author": {
+    "name": "Munir Mohammed",
+    "email": "muay01111@gmail.com",
+    "phone": "0907806267"
+  },
+  "support": {
+    "email": "muay01111@gmail.com",
+    "phone": "0907806267"
+  },
   "scripts": {
     "start": "expo start",
     "android": "expo run:android",
